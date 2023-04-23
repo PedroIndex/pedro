@@ -42,8 +42,13 @@ td.t3{
 }
 iframe{
     height: 500px; ;
+    width: 200px;
 }
 img{
     width: 474px;
     height: 296px;
+    background-color: white;
+}
+br{
+    margin: 0px;
 }
