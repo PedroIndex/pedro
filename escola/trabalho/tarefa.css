@@ -29,11 +29,6 @@ tr{
     margin: 0px;
 }
 
-td {
-    padding: 0px;
-    margin: 0px;
-}
-
 td.d2 {
     background-color: red;
     height: 50px;
@@ -42,14 +37,22 @@ td.d2 {
     font-size: 34px;
     border-radius: 60px;
 }
-td.d3{
-    width: 15%;
-    background-color: red;
-    text-align: center;
-}
-table.tb2{
+table{
     width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+tr.t1{
+    height: 700px;
+}
+th.t1{
+    background-color: red;
+    text-align: left;
+    font-size: 20px;
+    width: 15%;
+    text-align:top;
     
-    
-    
+}
+th#n1.t1{
+    text-align: right;
 }
