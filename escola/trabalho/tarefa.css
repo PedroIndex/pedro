@@ -39,18 +39,20 @@ td.d2 {
 }
 table{
     width: 100%;
-    margin: 0px;
-    padding: 0px;
+    margin: 10px;
+    padding: 10px;
 }
 tr.t1{
     height: 700px;
+    vertical-align: top;
 }
 th.t1{
     background-color: red;
-    text-align: left;
+    
     font-size: 20px;
     width: 15%;
-    text-align:top;
+    
+    padding: 10px;
     
 }
 th#n1.t1{
