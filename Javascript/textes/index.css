@@ -1,0 +1,25 @@
+body{
+    background-color: lightskyblue;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+    width: 500px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px black;
+}
+div.n1{
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+    width: 700px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px black;  
+    height: 300px;
+    text-align: center;
+}
